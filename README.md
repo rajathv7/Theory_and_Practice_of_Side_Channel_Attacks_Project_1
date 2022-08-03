@@ -10,7 +10,7 @@ Please refer to the file DOM_attack.txt for the code. Acknowledgements to Aditya
 
 [textout_array.txt](https://github.com/rajathv7/Theory_and_Practice_of_Side_Channel_Attacks_Project_1/files/9255086/textout_array.txt)
 
-The key that is found as a result of the above attack is [82, 254, 7, 155, 11, 230, 132, 205, 160, 224, 10, 33, 143, 197, 110, 73]
+The key that is found as a result of the above attack is [82, 254, 7, 155, 11, 230, 132, 205, 160, 224, 10, 33, 143, 197, 110, 73].
 
 ### Correlation Power Analysis (CPA) Attack
 
